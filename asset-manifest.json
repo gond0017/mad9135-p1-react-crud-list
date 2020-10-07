@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mad9135-p1-react-crud-list/static/css/main.dfb66c3e.chunk.css",
+    "main.js": "/mad9135-p1-react-crud-list/static/js/main.8f438593.chunk.js",
+    "main.js.map": "/mad9135-p1-react-crud-list/static/js/main.8f438593.chunk.js.map",
+    "runtime-main.js": "/mad9135-p1-react-crud-list/static/js/runtime-main.7e207898.js",
+    "runtime-main.js.map": "/mad9135-p1-react-crud-list/static/js/runtime-main.7e207898.js.map",
+    "static/js/2.8fd870b7.chunk.js": "/mad9135-p1-react-crud-list/static/js/2.8fd870b7.chunk.js",
+    "static/js/2.8fd870b7.chunk.js.map": "/mad9135-p1-react-crud-list/static/js/2.8fd870b7.chunk.js.map",
+    "index.html": "/mad9135-p1-react-crud-list/index.html",
+    "precache-manifest.ebd764c7983a01ea2c876aa6cd3764f0.js": "/mad9135-p1-react-crud-list/precache-manifest.ebd764c7983a01ea2c876aa6cd3764f0.js",
+    "service-worker.js": "/mad9135-p1-react-crud-list/service-worker.js",
+    "static/css/main.dfb66c3e.chunk.css.map": "/mad9135-p1-react-crud-list/static/css/main.dfb66c3e.chunk.css.map",
+    "static/js/2.8fd870b7.chunk.js.LICENSE.txt": "/mad9135-p1-react-crud-list/static/js/2.8fd870b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e207898.js",
+    "static/js/2.8fd870b7.chunk.js",
+    "static/css/main.dfb66c3e.chunk.css",
+    "static/js/main.8f438593.chunk.js"
+  ]
+}
